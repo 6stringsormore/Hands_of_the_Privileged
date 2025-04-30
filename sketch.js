@@ -33,7 +33,7 @@ let flickCooldown = 200; // Milliseconds between flicks
 let attachedParticles = new Map();
 
 // Video visibility
-let showVideo = true;
+let showVideo = false; // Start with video off by default
 
 // Finger tip landmarks (MediaPipe hand landmarks)
 const FINGER_TIPS = [4, 8, 12, 16, 20]; // Thumb, Index, Middle, Ring, Pinky tips
