@@ -4,6 +4,8 @@ Artistic Statement:
 
 In life we all have various privileges. From the heads of government to members of the homeless population, to some degree we all have certain privileges over other people or things. When used, these privileges create intentionally or unintendedly harm to various extents. The blood of this harm is left on our hands whether or not we mean to create harm though our privilege. We all have blood on our hands, the Hands of the Privileged. 
 
+Run the code live:
+https://6stringsormore.github.io/Hands_of_the_Privileged/
 
 Technial Statement:
 
