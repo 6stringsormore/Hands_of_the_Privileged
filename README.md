@@ -1,5 +1,12 @@
 # Hands of the Privileged
 
+Artistic Statement:
+
+In life we all have various privileges. From the heads of government to members of the homeless population, to some degree we all have certain privileges over other people or things. When used, these privileges create intentionally or unintendedly harm to various extents. The blood of this harm is left on our hands whether or not we mean to create harm though our privilege. We all have blood on our hands, the Hands of the Privileged. 
+
+
+Technial Statement:
+
 An interactive particle system that responds to hand movements using MediaPipe hand tracking. The project creates a beautiful flow field of particles that can be manipulated with hand gestures.
 
 ## Features
@@ -22,7 +29,7 @@ An interactive particle system that responds to hand movements using MediaPipe h
 
 - Built with p5.js
 - Uses MediaPipe for hand tracking
-- Implements a custom particle system with flow field
+- Implements a custom particle system with flow field inspired by "The Nature of Code"
 - Responsive canvas that adapts to window size
 
 ## Project Structure
